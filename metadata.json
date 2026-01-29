@@ -1,0 +1,7 @@
+{
+  "name": "Tamil Nadu Travel AI",
+  "description": "An AI-powered travel planner for Tamil Nadu with temple schedules, SETC bus timings, and carbon footprint tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
